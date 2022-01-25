@@ -31,3 +31,11 @@ body{
 .navbar-dark{
     background-color:#512DA8;
 }
+.card > .card-header-warning{background: gold}
+.start{padding:10px 60px 10px 60px    }
+.tab-content{
+    border-left:1px solid #ddd;
+    border-right:1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
